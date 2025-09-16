@@ -5,7 +5,9 @@ Database: PostgreSQL
 ORM: GORM
 
 System Design: System Design.png
+
 Script postgreSQL: dump-eticket_db-202509161005.sql
+
 Export Postman: Terminal API.postman_collection.json
 
 
