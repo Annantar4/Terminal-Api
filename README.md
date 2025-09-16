@@ -5,6 +5,7 @@ Database: PostgreSQL
 ORM: GORM
 
 
+
 Jawaban System Design Test
 1.	Gambarkan desain rancangan anda
 <img width="1920" height="1080" alt="Add a heading" src="https://github.com/user-attachments/assets/bc634455-d7db-4979-b255-c76fec8a3baa" />
